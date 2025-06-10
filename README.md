@@ -4,3 +4,5 @@
 - Um breve resumo profissional.
 - Experiência.
 - Habilidades.
+# Autor:
+- Miguel Oliveira hahn https://github.com/migueloliveirahahn
