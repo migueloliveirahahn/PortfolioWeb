@@ -1,0 +1,49 @@
+body {
+  background-image: url('https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/cac1042d-d53c-4ff8-8151-1ddc25d498ba_scaled.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0 10%;
+  text-align: left;
+}
+
+h1, h2, h3 {
+  text-shadow: 1px 1px 4px black;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: #ffd700;
+}
+
+section, article {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
