@@ -1,6 +1,6 @@
-# Portfólio Web
+# Curriculo
 
-# Esse é meu portfólio com toda a minha:
+# Esse é meu curriculo com toda a minha:
 - Um breve resumo profissional.
 - Experiência.
 - Habilidades.
